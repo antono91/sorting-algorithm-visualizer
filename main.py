@@ -1,5 +1,3 @@
-from turtle import pos
-from numpy import sort
 import pygame
 import random
 
